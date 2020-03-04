@@ -1,0 +1,18 @@
+<body>
+    <head>
+    <style>
+h1 {
+    margin-bottom: 15px;
+    font-size: 60px;
+    text-align: center;
+    color: gray;
+    background-color: turquoise;
+}
+h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    text-align: center;
+    background-color: palevioletred; 
+}
+   </style> 
